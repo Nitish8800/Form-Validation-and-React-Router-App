@@ -25,20 +25,20 @@
       "id": 3
     },
     {
-      "name": "Nitish Kumar",
-      "username": "Nitish8800",
-      "email": "nitishfea120784@gmail.com",
-      "phone": "7827792019fds",
-      "website": "https://mail.google.com/mail/u/0/#inbox",
-      "id": 4
-    },
-    {
       "name": "vikas",
       "username": "vcikac",
       "email": "cikas@gmail.com",
       "phone": "8967498327",
       "website": "https://mail.google.com/mail/u/0/#inbox",
       "id": 5
+    },
+    {
+      "name": "Nitish8800",
+      "username": "nitish",
+      "email": "nitishdev021@gmail.com",
+      "phone": "8967498327",
+      "website": "https://portfolio-nitish8800.vercel.app/",
+      "id": 6
     }
   ]
 }
