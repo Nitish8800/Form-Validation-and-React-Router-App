@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Nitish Kumar",
+      "username": "Nitish880",
+      "email": "nitishfea120784@gmail.com",
+      "phone": "880019723",
+      "website": "https://portfolio-nitish8800.vercel.app/",
+      "id": 1
+    },
+    {
+      "name": "kamal",
+      "username": "fds",
+      "email": "kamal@gmail.com",
+      "phone": "7827792019",
+      "website": "https://mail.google.com/mail/u/0/#inbox",
+      "id": 2
+    },
+    {
+      "name": "Shivam",
+      "username": "shivam8800",
+      "email": "shivam@gmail.com",
+      "phone": "iooierfds",
+      "website": "fdsf",
+      "id": 3
+    },
+    {
+      "name": "Nitish Kumar",
+      "username": "Nitish8800",
+      "email": "nitishfea120784@gmail.com",
+      "phone": "7827792019fds",
+      "website": "https://mail.google.com/mail/u/0/#inbox",
+      "id": 4
+    },
+    {
+      "name": "vikas",
+      "username": "vcikac",
+      "email": "cikas@gmail.com",
+      "phone": "8967498327",
+      "website": "https://mail.google.com/mail/u/0/#inbox",
+      "id": 5
+    }
+  ]
+}
